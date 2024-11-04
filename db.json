@@ -1,6 +1,6 @@
 {
   "contacts": [
-    { "id": 1, name: "kacen", label: "Kacen" },
+    { "id": 1, "name": "kacen", "label": "Kacen" },
   ],
   "profile": {
     "kacen": {
