@@ -1,7 +1,5 @@
 {
-  "contacts": [
-    { "id": 1, "name": "kacen", "label": "Kacen" },
-  ],
+  "contacts": [{ "id": 1, "name": "kacen", "label": "Kacen" }],
   "profile": {
     "kacen": {
       "address": "10 Conley Street",
@@ -16,7 +14,7 @@
       "p_firstName": "James",
       "p_middldName": "R",
       "p_lastName": "Philer",
-      "employer": "",
+      "employer": ""
     }
   }
 }
